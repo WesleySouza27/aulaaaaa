@@ -28,6 +28,6 @@ COMANDO PARA INICIALIZAR UM REPOSITORIO `git init`
 
 ```
 
-- [] featre 1
-- [] featre 2
+- [ ] featre 1
+- [ ] featre 2
 
